@@ -21,4 +21,4 @@ print("Teleported")
 ```
 
 - Once the player teleports, this message will print in the output.
-- I suggest running this through a loadstring script as a auto exeucte add-on / alternative without needing to add it to your folder.
+- I suggest running this through a loadstring script as an auto exeucte add-on / alternative without needing to add it to your folder.
