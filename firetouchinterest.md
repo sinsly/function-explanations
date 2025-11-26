@@ -24,7 +24,7 @@ Using 0 followed by 1 simulates a complete touch.
 
 ## Basic Example
 
-Simulating a player touching a coin:
+Simulating example player touch connect:
 
 ```lua
 local player = game.Players.LocalPlayer
