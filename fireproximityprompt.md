@@ -12,9 +12,11 @@ fireproximityprompt(prompt [, player, holdDuration])
 
 ## Notes:
 
-Distance can prevent the firing of Proximity Prompts.
-You can define the prompt parent and change the HoldDuration time.
-If the prompt has a HoldDuration, you can simulate holding it by passing the duration in seconds.
+- Distance can prevent the firing of Proximity Prompts.
+
+- You can define the prompt parent and change the HoldDuration time.
+
+- If the prompt has a HoldDuration, you can simulate holding it by passing the duration in seconds.
 
 ```lua
 prompt.HoldDuration = 0
