@@ -1,4 +1,4 @@
-# virtual-keypress
+# keypress guide
 **VK = Windows Virtual‑Key Code (Hex)**  
 **HID = macOS HID Usage ID (Hex)**  
 
